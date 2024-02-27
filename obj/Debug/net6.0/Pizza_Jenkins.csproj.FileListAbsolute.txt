@@ -28,3 +28,4 @@ C:\Users\dell\source\repos\Pizza_Jenkins\Pizza_Jenkins\obj\Debug\net6.0\refint\P
 C:\Users\dell\source\repos\Pizza_Jenkins\Pizza_Jenkins\obj\Debug\net6.0\Pizza_Jenkins.pdb
 C:\Users\dell\source\repos\Pizza_Jenkins\Pizza_Jenkins\obj\Debug\net6.0\Pizza_Jenkins.genruntimeconfig.cache
 C:\Users\dell\source\repos\Pizza_Jenkins\Pizza_Jenkins\obj\Debug\net6.0\ref\Pizza_Jenkins.dll
+C:\Users\dell\source\repos\Pizza_Jenkins\Pizza_Jenkins\obj\Debug\net6.0\Pizza_Jenkins.sourcelink.json
